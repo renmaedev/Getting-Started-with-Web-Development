@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Reniel Cagulada Docto</title>
+	</head>
+	<body>
+		<header>
+			<h1>Reniel Cagulada Docto</h1>
+				<nav>
+					<a href="/html/">HTML</a> |
+					<a href="/css/">CSS</a> |
+					<a href="js">JavaScript</a> |
+					<a href="python">Python</a>
+				</nav>
+		</header>
+			<img src = "profile_image.jpg" alt = "Reniel Cagulada Docto" width = "250" height = "250">
+			<p>Hello I am <b>Reniel Cagulada Docto</b> an aspiring <strong>Web Developer</strong>, <i>learning</i> <em>Web Development</em>.
+			I'd like to learn coding, programming and design. I am glad we met here.
+			Please contact me if you like.</p>
+		
+		<h2>Here are my sample projects:</h2>
+			<ul>
+				<li>Project 1 - My Portfolio</li>
+				<li>Project 2 - My Business Website</li>
+			</ul>
+
+		<h3>My Skills:</h3>
+			<p>HTML, CSS, Javascript, Bootsrap, Angular, Vague JS, Laravel, React JS, Python, Django.</p>
+
+		<h4>Please contact me:</h4>
+			<p>renieldocto@gmail.com</p>
+	</body>
+	<footer>
+		<p>&copy; Copyright <a href="https://learncomputertoday.net?affiliate_id=2089" target="_blank">Reniel Cagulada Docto</a> 2023</p>
+		<p><a href="https://learncomputertoday.net?affiliate_id=2089" target="_blank">Website</a></p>
+	</footer>
+</html>
+
+ 
